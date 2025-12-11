@@ -1,6 +1,7 @@
 fastapi
 uvicorn[standard]
-pdf2image
 pytesseract
-pillow
-img2pdf
+Pillow
+pdf2image
+opencv-python-headless
+python-multipart
